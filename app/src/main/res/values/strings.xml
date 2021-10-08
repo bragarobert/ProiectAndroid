@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Auction App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="electronice">Electronice/electrocasnice</string>
+    <string name="telefoane">Telefoane/tablete</string>
+    <string name="hobby">Hobby/Sport/Timp liber</string>
+    <string name="imobiliare">Imobiliare/Terenuri</string>
+    <string name="industriale">Echipamente industriale/Utilaje</string>
+    <string name="auto">Auto/Moto/Ambarcatiuni</string>
+    <string name="hello">Bine ati venit!</string>
+    <string name="hello_auto">Autofragment</string>
+    <string name="hello_imob">Fragment imobiliare</string>
+    <string name="hello_sport">Sport fragment</string>
+    <string name="hello_elec">Electronice fragment</string>
+    <string name="hello_telefoane">Fragment telefoane</string>
+    <string name="hello_utilaje">Fragment utilaje</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="retype_pass">Retype password</string>
+    <string name="signup">Sign up</string>
+    <string name="licitatie_noua">Licitatie noua</string>
+    <string name="nume_produs">Nume produs</string>
+    <string name="descriere_produs">Descriere produs</string>
+    <string name="add_image">Adauga imagine</string>
+    <string name="sp_categorie">Categorie</string>
+    <string name="pret_pornire">Pret pornire</string>
+    <string name="nr_tel">Nr. telefon</string>
+    <string name="oras">Oras</string>
+    <string name="add_produs">Adauga produs</string>
+    <string name="licitatiile_mele">Licitatiile mele</string>
+    <string name="delete">Sterge</string>
+    <string name="update">Modifica</string>
+    <string name="pret">Pret</string>
+    <string name="profil">Profilul meu</string>
+    <string name="btn_delete">Sterge profil</string>
+    <string name="btn_update">Modifica profil</string>
+    <string name="remember_me">Remember me</string>
+    <string name="nr_licitatii">Nr. licitatii</string>
+    <string name="arata_nume">Arata nume</string>
+    <string name="liciteaza">Liciteaza</string>
+    <string name="pretul_dv">Pretul dumneavoastra</string>
+    <string name="contact">Contact</string>
+    <string name="despre">Despre</string>
+
+
+    <string-array name="sp_choices">
+        <item>Auto/Moto/Ambarcatiuni</item>
+        <item>Imobiliare/Terenuri</item>
+        <item>Hobby/Sport/Timp liber</item>
+        <item>Electronice si Electrocasnice</item>
+        <item>Telefoane/Tablete/PC</item>
+        <item>Echipamente industriale/Utilaje</item>
+    </string-array>
+</resources>
